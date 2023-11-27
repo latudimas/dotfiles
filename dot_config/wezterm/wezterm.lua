@@ -20,6 +20,11 @@ config.color_scheme = "Tokyo Night Moon"
 --Background Opacity
 config.window_background_opacity = 1.0
 
+-- Title Bar
+config.window_decorations = "RESIZE"
+-- Tab Bar (set true to set tab bar like any other mac apps, set false to disable and use terminal style??)
+config.use_fancy_tab_bar = true
+
 -- Font config
 -- config.font = wezterm.font('JetBrainsMono Nerd Font Mono', { weight = 'Bold' })
 config.font = wezterm.font("JetBrains Mono", { weight = "DemiBold" })

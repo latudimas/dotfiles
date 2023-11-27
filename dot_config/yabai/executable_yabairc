@@ -32,4 +32,5 @@ yabai -m rule --add app="^Voice Memos$" manage=off
 yabai -m rule --add app="^EVO$" manage=off
 yabai -m rule --add app="^zoom.us$" manage=off
 yabai -m rule --add app="^GarageBand$" manage=off
+yabai -m rule --add app="^Finder$" manage=off
 
